@@ -41,12 +41,3 @@ This notebook focuses on implementing an LSTM model for text analysis.
 # Usage
 
 Each notebook can be run independently in a Jupyter environment. Please ensure that the required dependencies are installed.
-
-# License
-
-This project is licensed under the MIT License.
-
-# Contact
-
-For any queries, please contact the repository owner.
-
